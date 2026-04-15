@@ -1,6 +1,7 @@
 // https://leetcode.com/problems/xor-after-range-multiplication-queries-i/description/?envType=daily-question&envId=2026-04-08
 
-
+#include<bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     int xorAfterQueries(vector<int>& nums, vector<vector<int>>& queries) {

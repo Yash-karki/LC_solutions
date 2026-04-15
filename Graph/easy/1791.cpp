@@ -8,7 +8,8 @@ Approach:
 3 return the common element
 */
 
-
+#include<bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     int findCenter(vector<vector<int>>& edges) {

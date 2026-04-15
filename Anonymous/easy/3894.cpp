@@ -1,5 +1,9 @@
 // https://leetcode.com/problems/traffic-signal-color/description/
 
+
+
+#include<bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     string trafficSignal(int timer) {

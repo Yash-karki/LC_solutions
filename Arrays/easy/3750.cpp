@@ -1,5 +1,9 @@
 // https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/?envType=daily-question&envId=2026-04-10
 
+
+
+#include<bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     int minimumDistance(vector<int>& nums) {

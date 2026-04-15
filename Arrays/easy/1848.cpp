@@ -9,9 +9,8 @@ Approch:
 5. return ans
 
 */
-
-
-
+#include<bits/stdc++.h>
+using namespace std;
 
 class Solution {
 public:

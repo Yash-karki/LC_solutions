@@ -10,7 +10,8 @@ approach:
 5. count ko return krdo
 */
 
-
+#include<bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     int countDigitOccurrences(vector<int>& nums, int digit) {
